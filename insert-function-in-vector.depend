@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791366163 source:c:\users\user\downloads\insert-function-in-vector\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
